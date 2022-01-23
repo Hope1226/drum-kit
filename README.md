@@ -18,7 +18,7 @@ The drum kit is an app where you can play the drums with either keyboard or mous
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://hope1226.github.io/drum-kit/)
 
 
 ## Getting Started
