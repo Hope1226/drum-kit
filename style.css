@@ -1,0 +1,74 @@
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-decoration: none;
+}
+
+body {
+  background: linear-gradient(to right, rgb(1, 45, 80), rgb(0, 102, 170), rgb(1, 45, 80));
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.drum-keys-container {
+  display: flex;
+  gap: 10px;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+
+.keys {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 3px solid #fff;
+  background: rgba(0, 0, 0, 0.205);
+  width: 100px;
+  height: 100px;
+  color: #fff;
+  padding: 10px;
+  transition:  all 0.02s;
+}
+
+kbd,
+span {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+kbd {
+  font-size: 30px;
+  flex: 1;
+  font-weight: 600;
+}
+
+.keys span {
+  font-size: 12px;
+  text-transform: uppercase;
+  color: gold;
+  font-weight: 600;
+  font-family: sans-serif;
+}
+
+.playing {
+  border-color: gold;
+  transform: scale(1.1);
+}
