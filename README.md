@@ -1,18 +1,20 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-# Project Name
+# JavaScript: Drum Kit
 
-> One paragraph statement about the project.
+> Drum kit is the online entertaning app for drum lovers
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+The drum kit is an app where you can play the drums with either keyboard or mouse by clicking the keys.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Major languages: HTML/CSS, JavaScript
 
 ## Live Demo
 
@@ -21,37 +23,34 @@ Additional description about the project and its features.
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+Install or update on your local terminal the node.js package.
+
 ### Setup
+
+To get a local copy up and running follow these simple steps.
+
+To setup the Stock Market project in your local, in the repo page:
+click on code (dropdown list) > Download as ZIP;
+or open terminal of path you want to install project and run this command <br>
+`git@github.com:git@github.com:Hope1226/drum-kit.git`
 
 ### Install
 
-### Usage
+Run in your terminal the following commands:
 
-### Run tests
-
-### Deployment
-
-
+**`$ cd drum-kit/'`**<br>
+**`$ code .`**<br>
+**`$ go live server`**<br>
 
 ## Authors
 
-👤 **Author1**
+👤 **Umidjon Ustabaev (Hope)**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@Hope1226](https://github.com/Hope1226)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
@@ -59,7 +58,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Hope1226/drum-kit/issues).
 
 ## Show your support
 
@@ -67,10 +66,21 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+This web-app is built within the online tutorials provided by Wes Bos.<br>
 
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
+
+
+
+[forks-shield]: https://img.shields.io/github/forks/omar-labana/portfolio.svg?style=for-the-badge
+[forks-url]: https://github.com/Hope1226/hope-profile/network/members
+[stars-shield]: https://img.shields.io/github/stars/omar-labana/portfolio.svg?style=for-the-badge
+[stars-url]: https://github.com/Hope1226/hope-profile/stargazers
+[issues-shield]: https://img.shields.io/github/issues/omar-labana/portfolio.svg?style=for-the-badge
+[issues-url]: https://github.com/Hope1226/hope-profile/issues
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: hhttps://github.com/Hope1226/hope-profile/blob/master/MIT.md
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/umidjon-ustabaev/
