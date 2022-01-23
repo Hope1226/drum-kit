@@ -53,8 +53,9 @@ span {
 }
 
 kbd {
-  font-size: 20px;
+  font-size: 30px;
   flex: 1;
+  font-weight: 600;
 }
 
 .keys span {
